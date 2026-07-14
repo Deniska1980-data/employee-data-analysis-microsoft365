@@ -264,11 +264,6 @@
 
 ---
 
-## 🖼️ Project Overview
-
-![Employee Data Processing V2 Overview](employee-data-processing-v2-overview.png)
-
----
 
 ## 🔄 End-to-End Workflow
 
