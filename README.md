@@ -4,7 +4,7 @@
   <strong>Excel • Power BI • SharePoint • Power Automate • Microsoft Teams</strong>
 </p>
 
-![Employee Data Analysis and Microsoft 365 Automation](employee-data-processing-v2-overview.png)
+![Employee Data Processing V2 Overview](employee%20data%20processing%20v2%20overview.png)
 
 ---
 
