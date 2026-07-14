@@ -278,19 +278,19 @@
 
 ## 📊 Excel, Power BI & Power Automate
 
-![Implementation Details](obrazek1.png)
+![Implementation Details](employee-data-processing-v2-implementation.png)
 
 ---
 
 ## 📈 Interactive Reports
 
-![Power BI Dashboard](obrazek2.png)
+![Power BI Dashboard](employee-data-processing-v2-powerBIreport.png)
 
 ---
 
 ## ⚙️ Power Automate Workflow
 
-![Power Automate Flow](obrazek3.png)
+![Power Automate Flow](employee-data-processing-v2-powerautomate.png)
 
 ---
 
