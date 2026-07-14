@@ -264,13 +264,6 @@
 
 ---
 
-
-## 🔄 End-to-End Workflow
-
-![Employee Data Processing V2 Screenshot](employee-data-processing-v2-screenshot.png)
-
----
-
 ## 📊 Excel, Power BI & Power Automate
 
 ![Implementation Details](employee-data-processing-v2-implementation.png)
@@ -292,6 +285,13 @@
 ## 🚀 Project Summary
 
 ![Project Summary](employee-data-processing-v2-summary.png)
+
+---
+
+
+## 🔄 End-to-End Workflow
+
+![Employee Data Processing V2 Screenshot](employee-data-processing-v2-screenshot.png)
 
 ---
 
