@@ -264,29 +264,39 @@
 
 ---
 
-## 🖼️ Project Screenshots / Obrázky projektu
+## 🖼️ Project Overview
 
-### 1. Complete project overview / Celkový přehled projektu
-
-![Complete project overview](docs/images/employee-data-processing-v2-overview.png)
+![Employee Data Processing V2 Overview](employee-data-processing-v2-overview.png)
 
 ---
 
-### 2. End-to-end project workflow / End-to-end průběh projektu
+## 🔄 End-to-End Workflow
 
-![End-to-end project workflow](docs/images/employee-data-processing-v2-workflow.png)
-
----
-
-### 3. Real implementation details / Reálné detaily implementace
-
-![Real implementation details](docs/images/employee-data-processing-v2-implementation.png)
+![Employee Data Processing V2 Screenshot](employee-data-processing-v2-screenshot.png)
 
 ---
 
-### 4. Excel, Power BI and Power Automate summary / Shrnutí Excelu, Power BI a Power Automate
+## 📊 Excel, Power BI & Power Automate
 
-![Technology summary](docs/images/employee-data-processing-v2-summary.png)
+![Implementation Details](obrazek1.png)
+
+---
+
+## 📈 Interactive Reports
+
+![Power BI Dashboard](obrazek2.png)
+
+---
+
+## ⚙️ Power Automate Workflow
+
+![Power Automate Flow](obrazek3.png)
+
+---
+
+## 🚀 Project Summary
+
+![Project Summary](obrazek4.png)
 
 ---
 
