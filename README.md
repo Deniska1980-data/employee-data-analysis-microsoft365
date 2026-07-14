@@ -296,7 +296,7 @@
 
 ## 🚀 Project Summary
 
-![Project Summary](obrazek4.png)
+![Project Summary](employee-data-processing-v2-summary.png)
 
 ---
 
